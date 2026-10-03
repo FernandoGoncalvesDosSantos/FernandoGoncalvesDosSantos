@@ -15,6 +15,18 @@
 
 ---
 
+### 👾 Space Invaders Arcade
+
+<picture>
+  <img
+    alt="Git Invader"
+    src="https://raw.githubusercontent.com/FernandoGoncalvesDosSantos/FernandoGoncalvesDosSantos/output/git-invader-multi-dark.svg"
+    width="100%"
+  >
+</picture>
+
+---
+
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncalves-fernando)

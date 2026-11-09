@@ -1,4 +1,4 @@
-# Olá! Eu sou o Fernando Gonçalves 👋
+# Olá! Eu sou o Fernando Gonçalves
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no Centro Universitário de Viçosa (UNIVIÇOSA)<br>
 💼 **Analista de Suporte Técnico** na SUPER CABO MULTI<br>
